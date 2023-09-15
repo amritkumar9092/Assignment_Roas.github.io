@@ -1,0 +1,330 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bg-navbar {
+    background-color: rgb(10,7,59);
+}
+.text-color {
+    color: rgb(59,123,189);
+}
+
+/* --------------------1st Section--------------- */
+
+.body_wraap {
+    background-color: rgb(233,235,238);
+    padding: 100px 0;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 10%;
+}
+.navbar-brand {
+    font-weight: 700;
+    padding-left: 27px;
+    font-size: 24px;
+}
+.inner_body span {
+    color: rgb(108,104,115);
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.inner_body h1 {
+    color: rgb(11,8,64);
+    font-weight: 900;
+    font-size: 46px;
+    margin: 15px 0;
+}
+.inner_body p {
+    color: rgb(11,8,64);
+    font-weight: 600;
+}
+.inner_body ul {
+    padding: 0;
+}
+.inner_body ul li{
+    list-style: none;
+    font-weight: 700;
+    color: rgb(11,8,64);
+    margin: 15px 0;
+}
+.inner_body button{
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+.inner_body_2nd_part {
+    position: relative;
+}
+.inner_body_2nd_part img{
+    width: 78%;
+}
+.inner_body_image {
+    position: absolute;
+    bottom: 78px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 12px;
+}
+.inner_body_image h6{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+.inner_body_image p{
+    font-size: 13px;
+    color: #8d8e8f;
+    margin: 0;
+}
+
+/* --------------------2nd Section--------------- */
+
+.body_wraap_2nd_part {
+    padding: 100px 0;
+}
+.body_wraap_2nd_part p {
+    color: rgb(108,104,115);
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.body_wraap_2nd_part h2 {
+    color: rgb(11,8,64);
+    font-weight: 900;
+    font-size: 39px;
+}
+
+/* --------------------3rd Section--------------- */
+
+.division_body {
+    background-color: rgb(233,235,238);
+    padding: 50px 0;
+    height: 240px;
+    border-radius: 10px;
+    position: relative;
+}
+.division_body_icon_1 {
+    background-color: rgb(251,184,23);
+    width: 33%;
+    border-radius: 50%;
+    height: 27%;
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    box-shadow: 0px 0px 17px 3px rgb(251,184,23);
+}
+.division_body_icon_2 {
+    background-color: rgb(101,94,255);
+    width: 33%;
+    border-radius: 50%;
+    height: 27%;
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    box-shadow: 0px 0px 17px 3px rgb(101,94,255);
+}
+.division_body_icon_3 {
+    background-color: rgb(54,179,250);
+    width: 33%;
+    border-radius: 50%;
+    height: 27%;
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    box-shadow: 0px 0px 17px 3px rgb(54,179,250);
+}
+.division_body_icon_4 {
+    background-color: rgb(21,190,83);
+    width: 33%;
+    border-radius: 50%;
+    height: 27%;
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    box-shadow: 0px 0px 17px 3px rgb(21,190,83);
+}
+.division_body_icon_5 {
+    background-color: rgb(137,81,255);
+    width: 33%;
+    border-radius: 50%;
+    height: 27%;
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    box-shadow: 0px 0px 17px 3px rgb(137,81,255);
+}
+.division_body_icon svg{
+    color: #ffffff;
+    display: block;
+    justify-content: center;
+    top: 50%;
+    bottom: 50%;
+    top: 47%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    font-size: 27px;
+}
+.division_body h6 {
+    color: rgb(11,8,64);
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+.division_body p {
+    color: rgb(108,104,115);
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    padding: 0 25px
+}
+
+/* --------------------4th Section--------------- */
+
+.content_section {
+    padding: 0px 0px 100px 0px;
+}
+.bg-section {
+    background-color: rgb(89,81,255);
+    border-radius: 10px;
+}
+.content_section_wraap {
+    padding: 40px 50px;
+}
+.content_section_wraap_heading h4{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+.content_section_wraap_heading p{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.content_section_wraap_button {
+    position: relative;
+}
+.content_section_wraap_button button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    font-weight: 700;
+}
+
+/* ---------------------Footer Section-------------------- */
+
+.footer_logo {
+    font-size: 26px;
+    color: rgb(11,8,64);
+}
+.footer_logo span{
+    color: rgb(89,81,255);
+}
+.footer_button .button_1 {
+    background-color: #fff;
+    color: rgb(11,8,64);
+    border: 1px solid gray;
+    font-size: 14px;
+    font-weight: 600;
+}
+.footer_button .button_2 {
+    font-size: 14px;
+    font-weight: 600;
+}
+.footer_content h6 {
+    font-size: 12px;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+.footer_content p {
+    margin: 2px 0;
+}
+.footer_content p a{
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(11,8,64) !important;
+}
+
+
+/* -------------------Mobile Screen------------- */
+@media only screen and (max-width: 600px) {
+    .navbar-brand {
+        padding-left: 0px;
+    } 
+    .body_wraap {
+        padding: 33px 0;
+        border-bottom-left-radius: 100px;
+        border-bottom-right-radius: 40px;
+    }
+    
+    .inner_body h1 {
+        font-size: 30px;
+    }
+    .inner_body button {
+        width: 100%;
+    }
+    .inner_body_2nd_part img{
+        width: 100%;
+    }
+    .inner_body_image {
+        bottom: 100px;
+        left: 13%;
+    }
+    .col {
+        flex: unset;
+        margin-bottom: 84px;
+    }
+    .division_body_icon_1 {
+        width: 25%;
+        height: 33%;
+        top: -42px;
+        left: 38%;
+    }
+    .division_body_icon_2 {
+        width: 25%;
+        height: 33%;
+        top: -42px;
+        left: 38%;
+    }
+    .division_body_icon_3 {
+        width: 25%;
+        height: 33%;
+        top: -42px;
+        left: 38%;
+    }
+    .division_body_icon_4{
+        width: 25%;
+        height: 33%;
+        top: -42px;
+        left: 38%;
+    }
+    .division_body_icon_5 {
+        width: 25%;
+        height: 33%;
+        top: -42px;
+        left: 38%;
+    }
+    .content_section_wraap {
+        padding: 85px 17px;
+    }
+    .content_section_wraap_button button {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .footer_content {
+        text-align: left;
+    }
+    .footer_content_1st {
+        text-align: left;
+    }
+    .footer_content_smallscreen {
+        width: 50%;
+    }
+    .content_section {
+        padding: 0px 0px 6px 0px;
+    }
+    .body_wraap_2nd_part {
+        padding: 50px 0px 0px 0px;
+    }
+}
